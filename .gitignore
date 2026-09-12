@@ -1,0 +1,7 @@
+bin/
+obj/
+*.user
+*build-log.txt
+*-done.txt
+*-report.txt
+*.log
