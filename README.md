@@ -1,7 +1,7 @@
 # 🧹 SweepDrive — a simple, safe Windows disk cleaner
 
-[![Downloads](https://img.shields.io/github/downloads/tahsin314/sweepdrive/total?label=downloads&color=1E6EBE)](../../releases)
-[![Latest release](https://img.shields.io/github/v/release/tahsin314/sweepdrive?color=1E6EBE)](../../releases)
+[![Downloads](https://img.shields.io/github/downloads/tahsin314/SweepDrive/total?label=downloads&color=1E6EBE)](../../releases)
+[![Latest release](https://img.shields.io/github/v/release/tahsin314/SweepDrive?color=1E6EBE)](../../releases)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%20%2F%2011-0078D6)
 
@@ -13,10 +13,6 @@
 SweepDrive frees up disk space on Windows by removing caches, temporary files,
 and other safe-to-delete junk — without touching your documents, photos, logins,
 or settings. It's a single portable `.exe`: no installer, no admin required, no ads.
-
-<sub>📊 The **downloads** badge above counts every download of the release files
-automatically once you publish a Release. Replace `USERNAME` in the badge links
-with your GitHub username.</sub>
 
 > **Safe by design.** The one-click **Safe Clean** only removes things that
 > regenerate on their own (temp files and caches). Anything that could contain
@@ -106,4 +102,4 @@ backups of anything important. The authors are not liable for data loss
 
 ## 📄 License
 
-[MIT](LICENSE) © 2026 Tahsin
+[MIT](LICENSE) © 2026 Tahsin ([@tahsin314](https://github.com/tahsin314))
