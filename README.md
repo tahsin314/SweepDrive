@@ -1,7 +1,7 @@
 # 🧹 SweepDrive — a simple, safe Windows disk cleaner
 
-[![Downloads](https://img.shields.io/github/downloads/USERNAME/sweepdrive/total?label=downloads&color=1E6EBE)](../../releases)
-[![Latest release](https://img.shields.io/github/v/release/USERNAME/sweepdrive?color=1E6EBE)](../../releases)
+[![Downloads](https://img.shields.io/github/downloads/tahsin314/sweepdrive/total?label=downloads&color=1E6EBE)](../../releases)
+[![Latest release](https://img.shields.io/github/v/release/tahsin314/sweepdrive?color=1E6EBE)](../../releases)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%20%2F%2011-0078D6)
 
